@@ -6,5 +6,7 @@
 Commands:
 ```
 !addbuildplate {your playfab id}
-``
+```
+```
 !check {patch found/not found}
+```
