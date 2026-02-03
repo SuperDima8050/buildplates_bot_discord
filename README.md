@@ -4,7 +4,5 @@
 > Also install the latest version of [Python](https://www.python.org/downloads/release/python-3142/) and `python -m pip install discord.py`
 
 **Commands:**
--              
-  !addbuildplate {your playfab id} 
--
-  !check {patch found/not found}
+!addbuildplate {your playfab id} 
+!check {patch found/not found}
